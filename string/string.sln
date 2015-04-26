@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "string", "string\string.vcxproj", "{C7171C73-2365-4F24-92D7-1A21D42377FC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stringTests", "stringTests\stringTests.vcxproj", "{1D10968E-6DAD-4821-A25B-1DFB885E1666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7171C73-2365-4F24-92D7-1A21D42377FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7171C73-2365-4F24-92D7-1A21D42377FC}.Debug|Win32.Build.0 = Debug|Win32
+		{C7171C73-2365-4F24-92D7-1A21D42377FC}.Release|Win32.ActiveCfg = Release|Win32
+		{C7171C73-2365-4F24-92D7-1A21D42377FC}.Release|Win32.Build.0 = Release|Win32
+		{1D10968E-6DAD-4821-A25B-1DFB885E1666}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1D10968E-6DAD-4821-A25B-1DFB885E1666}.Debug|Win32.Build.0 = Debug|Win32
+		{1D10968E-6DAD-4821-A25B-1DFB885E1666}.Release|Win32.ActiveCfg = Release|Win32
+		{1D10968E-6DAD-4821-A25B-1DFB885E1666}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
